@@ -1,5 +1,5 @@
 # Title
-Analysis of FIFA 2020 players dataset in a NoSQL MongoDB database.
+Soccer player buying guide for club managers / Analysis of FIFA 2020 players dataset in a NoSQL MongoDB database.
 
 ## Description
 - Python application that assists football clubs with investment in best set of players based on club goals  
